@@ -19,7 +19,12 @@ const Project = () => {
           title: "Food Store Website",
           description: "Developed a responsive and visually appealing food store website using HTML and Tailwind CSS, featuring clean UI components, category-wise food item listings, and smooth hover effects. Integrated high-quality images via ImageKit.io CDN, utilized free SVG and flat icons for enhanced user experience, and applied the Poppins font from Google Fonts for modern typography. The project emphasizes performance, accessibility, and mobile-first design, making it suitable for showcasing food products in an engaging and efficient manner.",
           githubLink: "https://lonelykidtillnow.github.io/Mern-Projects/foodstore/"
-        }
+        },
+        {
+            "title": "My Frontend Project Showcase",
+            "description": "A collection of web projects I built while practicing frontend development, all deployed on Neocities. These projects demonstrate my learning and skills in HTML, CSS, and JavaScript.",
+            "githubLink": "https://neocities.org/site/rajeshrm"
+        },          
       ];
     return (
         <>
