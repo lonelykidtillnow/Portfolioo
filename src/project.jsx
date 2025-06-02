@@ -21,6 +21,11 @@ const Project = () => {
           githubLink: "https://lonelykidtillnow.github.io/Mern-Projects/foodstore/"
         },
         {
+          title: "HRX Website Clone",
+          description: "Built a responsive fashion e-commerce website inspired by HRX using HTML5, Tailwind CSS, JavaScript, and React.js. Implemented reusable components, smooth navigation, and modern UI/UX design with a mobile-first approach. Integrated high-quality images using ImageKit.io CDN, styled modern typography with Google Fonts, and enhanced visuals with React SVG icons. The project showcases strong frontend development skills and clean component-based architecture.",
+          githubLink: "https://rajeshproject.netlify.app/"   
+        },
+        {
             "title": "My Frontend Project Showcase",
             "description": "A collection of web projects I built while practicing frontend development, all deployed on Neocities. These projects demonstrate my learning and skills in HTML, CSS, and JavaScript.",
             "githubLink": "https://neocities.org/site/rajeshrm"
