@@ -4,9 +4,10 @@ const Skills = () => {
       { name: "React JS", value: 85, color: "bg-cyan-400" },
       { name: "Express JS", value: 85, color: "bg-yellow-400" },
       { name: "Node JS", value: 85, color: "bg-purple-500" },
-      { name: "My SQL", value: 85, color: "bg-red-500" },
+      { name: "PostgreSQL", value: 85, color: "bg-red-500" },
       { name: "MongoDB", value: 85, color: "bg-yellow-500" },
-      { name: "C++", value: 75, color: "bg-black" },
+      { name: "C++", value: 70, color: "bg-black" },
+      { name: "Tailwind CSs", value: 85, color: "bg-red-500" },
     ];
   
     return (

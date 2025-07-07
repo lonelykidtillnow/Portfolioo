@@ -22,7 +22,7 @@ const Home = () => {
                                 delaySpeed={1000}
                             />
                         </p>
-                        <a href="https://drive.google.com/file/d/1PBfm6b_XX5JvhDD-S_59ZEXqJIJisR_U/view"><button className="text-[16px] font-[500px] text-[#FFFFFF] leading-[24px] bg-[#6244c5] font-[poppins] p-[10px] rounded-xl w-[200px]">Download CV</button></a>
+                        <a href="https://drive.google.com/file/d/1ZH9RM1K4Fnc7_hW3ooaoO4wDT5-ZnlX1/view"><button className="text-[16px] font-[500px] text-[#FFFFFF] leading-[24px] bg-[#6244c5] font-[poppins] p-[10px] rounded-xl w-[200px]">Download CV</button></a>
                     </div>
                 </div>
                 <div>
