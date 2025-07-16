@@ -3,17 +3,20 @@ const Project = () => {
         {
           title: "Automated Early Detection System for Alzheimer's Disease Using Medical Data Analysis",
           description: "Developed an automated early detection system for Alzheimer's disease using advanced medical data analysis techniques. Utilized machine learning algorithms to analyze patient data, enabling accurate and early diagnosis to improve treatment outcomes.",
-          githubLink: "https://github.com/username/alumni-connect"
         },
         {
           title: "Derbis Flow & Landslide Detection/Prediction",
           description: "Developed an AI-powered real-time detection and prediction system for debris flow and landslides using YOLO object detection models combined with remote sensing data. Leveraged advanced deep learning techniques and satellite imagery analysis to accurately identify high-risk areas, enabling early warnings and proactive disaster management.",
-          githubLink: "https://github.com/username/buy-tracking"
         },
         {
           title: "Blog Platform",
           description: "Built a full-stack blog platform using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with Tailwind CSS for styling and a modern, responsive UI. The application allows users to securely register, log in, and manage their blog posts with a clean and intuitive interface. Blog content and user data are efficiently stored and retrieved from MongoDB, ensuring persistence and scalability. Enhanced with React Icons and Google Fonts (Inter/Poppins), the platform offers a smooth user experience suitable for both desktop and mobile devices.",
           githubLink: "https://github.com/lonelykidtillnow/Blog"
+        },
+        {
+          title: "Student Management System with Full CRUD & Search Functionality",
+          description: "Built a full-stack Student Management System using React.js for the frontend and Node.js with Express.js for the backend, powered by PostgreSQL for database management. The application supports complete Create, Read, Update, and Delete (CRUD) operations along with real-time search functionality. Implemented React Router for smooth navigation and integrated Prisma ORM for efficient database queries. This project demonstrates strong understanding of REST APIs, state management, and responsive UI design.",
+          githubLink: "https://crud1operation.netlify.app/"
         },
         {
           title: "Food Store Website",
@@ -26,9 +29,9 @@ const Project = () => {
           githubLink: "https://rajeshproject.netlify.app/"   
         },
         {
-            "title": "My Frontend Project Showcase",
-            "description": "A collection of web projects I built while practicing frontend development, all deployed on Neocities. These projects demonstrate my learning and skills in HTML, CSS, and JavaScript.",
-            "githubLink": "https://neocities.org/site/rajeshrm"
+            title: "My Frontend Project Showcase",
+            description: "A collection of web projects I built while practicing frontend development, all deployed on Neocities. These projects demonstrate my learning and skills in HTML, CSS, and JavaScript.",
+            githubLink: "https://neocities.org/site/rajeshrm"
         },          
       ];
     return (
