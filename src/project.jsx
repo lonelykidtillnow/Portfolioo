@@ -19,6 +19,11 @@ const Project = () => {
           githubLink: "https://crud1operation.netlify.app/"
         },
         {
+          title: "User Authentication System with Validation",
+          description: "Built a full-stack application for user registration, login, and data display using React.js for the frontend and Node.js with Express.js for the backend, powered by PostgreSQL for database management. The application supports user registration with validation for name, email, phone number, and password, as well as secure user login using email and password. Upon successful login, users can view their data. The system demonstrates a strong understanding of REST APIs, state management, and responsive UI design, ensuring a seamless user experience.",
+          githubLink: "https://authentication1project.netlify.app/"
+        },
+        {
           title: "Food Store Website",
           description: "Developed a responsive and visually appealing food store website using HTML and Tailwind CSS, featuring clean UI components, category-wise food item listings, and smooth hover effects. Integrated high-quality images via ImageKit.io CDN, utilized free SVG and flat icons for enhanced user experience, and applied the Poppins font from Google Fonts for modern typography. The project emphasizes performance, accessibility, and mobile-first design, making it suitable for showcasing food products in an engaging and efficient manner.",
           githubLink: "https://lonelykidtillnow.github.io/Mern-Projects/foodstore/"
